@@ -1,5 +1,4 @@
 title: H1 Pages Boundary Lab
-incremental: true
 remote_theme: origabriel/h1-pages-remote-theme-20260910@main
 plugins:
   - h1_boundary_marker
