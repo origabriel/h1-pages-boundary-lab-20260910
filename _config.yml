@@ -1,2 +1,4 @@
 title: H1 Pages Boundary Lab
 theme: minima
+plugins:
+  - h1_boundary_marker
