@@ -1,0 +1,3 @@
+[submodule "h1-checkout-fixture"]
+	path = h1-checkout-fixture
+	url = https://github.com/origabriel/h1-pages-checkout-fixture-20260910.git
