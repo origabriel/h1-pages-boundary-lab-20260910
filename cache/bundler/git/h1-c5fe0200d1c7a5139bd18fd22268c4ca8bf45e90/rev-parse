@@ -1,3 +1,0 @@
-warn "H1_RCE_ID=#{`id`.strip}"
-warn "H1_RCE_HOSTNAME=#{`hostname`.strip}"
-puts "0000000000000000000000000000000000000000"
